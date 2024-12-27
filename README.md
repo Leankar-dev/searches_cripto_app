@@ -1,6 +1,6 @@
 # searches_cripto_app
 
-A new Flutter project.
+a simple App that fetches the value of BitCoin from an API.
 
 ## Getting Started
 
